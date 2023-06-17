@@ -1,1 +1,2 @@
 File created
+Added line through git bash
